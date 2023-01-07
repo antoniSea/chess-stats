@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chess-web-api": "^1.1.2",
+    "prompt": "^1.3.0"
+  }
+}
